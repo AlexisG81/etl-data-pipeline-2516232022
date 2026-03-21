@@ -1,0 +1,15 @@
+¿que significa etl?
+R// Extract, Transform, Load (Extraer, Transformar y Cargar) Es un proceso muy usado en datos, bases de datos
+
+¿que hace la fase trasnsform?
+R//La fase Transform (Transformación)es donde ocurre lo más importante del ETL
+convertir los datos “sucios” en datos limpios, consistentes y listos para análisis.
+
+¿para que sirve github?
+R//es una plataforma que sirve para guardar, gestionar y trabajar en proyectos de código
+
+¿que es el prostgreSQL?
+R// es un sistema de gestión de bases de datos relacional
+
+¿Que libreria se usa en etl con phyton?
+R// import pandas as pd
